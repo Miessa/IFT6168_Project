@@ -1,0 +1,19 @@
+# Python packages
+pandas
+numpy
+joblib
+scipy
+causallearn
+graphviz
+dowhy
+pygraphviz
+
+# System dependencies (must be installed via apt or manually if not using Colab/Linux)
+# The following lines are shell commands and should not be included when using pip directly.
+# Run them manually in your environment if needed:
+
+# !apt-get install -y graphviz libgraphviz-dev pkg-config
+# !pip install pygraphviz \
+#     --config-settings="--global-option=build_ext" \
+#     --config-settings="--global-option=-I/usr/include/graphviz" \
+#     --config-settings="--global-option=-L/usr/lib/graphviz/"
